@@ -4,7 +4,7 @@
 
 Now that you have your design and some startup know-how, you must be itching to start implementing it. So now we will, but _in two phases_.
 
-The first phase is solely about the front end. We will leave stubs, placeholders, or mocks at the points where we expect to call our chosen web service APIs. Filling those in will be the concern of [Assignment 1114](#assignment-1114). For this assignment, we focus on the core content of the course: your application’s user interface.
+The first phase is solely about the front end. We will leave stubs, placeholders, or mocks at the points where we expect to call our chosen web service APIs. Filling those in will be the concern of [Assignment 1114](./api-integration.md). For this assignment, we focus on the core content of the course: your application’s user interface.
 
 Resources to help you with this include many of the links listed on the course website, assorted samples from the [bazaar](https://github.com/dondi/bazaar) repository, and the starter files that are included with your GitHub Classroom repositories for this assignment, once you have set yourself up.
 
@@ -30,7 +30,7 @@ The iOS starter requires [Xcode](https://developer.apple.com/xcode/) and has sim
 In order to connect your repository to [Travis](https://travis-ci.org), our automated code review and feedback system, make sure you completely copy _all_ files from the starter code of your choice. Once these files are committed and pushed, the system will provide feedback on code formatting and quality whenever you commit a new version to GitHub. _Points will be deducted if issues here linger in the final submission._
 
 ## For Submission: A Front End to an Existing Web Service API
-The title pretty much says it: put together a front end for a pre-existing web service API. Details on selecting this API and the scope of usage for this API were specified in [Assignment 0919a](https://github.com/lmu-cmsi370-fall2019/assignments/blob/master/front-end-design.md) and with [Assignment 0919b](https://github.com/lmu-cmsi370-fall2019/assignments/blob/master/api-setup-tutorial.md) you got some hands-on time using it manually. The key requirement is worth reiterating: we are looking for the implementation of _at least three (3)_ non-trivial web service functions. Also as stated in that assignment, there is a “home-grown” option which, if chosen, hikes the requirement to five (5) specific services.
+The title pretty much says it: put together a front end for a pre-existing web service API. Details on selecting this API and the scope of usage for this API were specified in [Assignment 0919a](./front-end-design.md) and with [Assignment 0919b](./api-setup-tutorial.md) you got some hands-on time using it manually. The key requirement is worth reiterating: we are looking for the implementation of _at least three (3)_ non-trivial web service functions. Also as stated in that assignment, there is a “home-grown” option which, if chosen, hikes the requirement to five (5) specific services.
 
 Technology, coding, and architecture specifics will vary by technology stack, but one specification is common across the board: this assignment expects you to implement _the front end only_ (i.e., no real connections to the web services yet), but also requires that there are _clear, well-defined placeholders_ for those web services in your code. The starter code already has these qualities, so as long as you don’t veer too far from them, you should be fine.
 
