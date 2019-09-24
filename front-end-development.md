@@ -22,12 +22,12 @@ Starter code for the possible front-end technology stacks is available in the [b
 * React web app using hooks: [giphy-sample-react-hooks](https://github.com/dondi/bazaar/tree/master/giphy-sample-react-hooks)
 * iOS application: [giphy-sample-ios](https://github.com/dondi/bazaar/tree/master/giphy-sample-ios)
 
-The web-based starters require [Node.js](https://nodejs.org) and are fully configured for linting ([ESLint](http://eslint.org)), unit tests ([Jest](https://jestjs.io)), and code coverage ([Istanbul](https://github.com/gotwarlost/istanbul), built into Jest). When properly copied into your repositories, these will be run automatically whenever you push to GitHub.
+The web-based starters require [Node.js](https://nodejs.org) and are fully configured for linting ([ESLint](http://eslint.org)), unit tests ([Jest](https://jestjs.io) or [Karma](https://karma-runner.github.io)), and code coverage ([Istanbul](https://github.com/gotwarlost/istanbul), integrated into the test framework). When properly copied into your repositories, these will be run automatically whenever you push to GitHub.
 
 The iOS starter requires [Xcode](https://developer.apple.com/xcode/) and has similar tooling.
 
 ### Automated Feedback
-In order to connect your repository to [Travis](https://travis-ci.org), our automated code review and feedback system, make sure you completely copy _all_ files from the starter code of your choice. Once these files are committed and pushed, the system will provide feedback on code formatting and quality whenever you commit a new version to GitHub. _Points will be deducted if issues here linger in the final submission._
+In order to connect your repository to [Travis](https://travis-ci.com), our automated code review and feedback system, make sure you completely copy _all_ files from the starter code of your choice. Once these files are committed and pushed, the system will provide feedback on code formatting and quality whenever you commit a new version to GitHub. _Points will be deducted if issues here linger in the final submission._
 
 ## For Submission: A Front End to an Existing Web Service API
 The title pretty much says it: put together a front end for a pre-existing web service API. Details on selecting this API and the scope of usage for this API were specified in [Assignment 0919a](./front-end-design.md) and with [Assignment 0919b](./api-setup-tutorial.md) you got some hands-on time using it manually. The key requirement is worth reiterating: we are looking for the implementation of _at least three (3)_ non-trivial web service functions. Also as stated in that assignment, there is a “home-grown” option which, if chosen, hikes the requirement to five (5) specific services.
