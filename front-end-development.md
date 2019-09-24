@@ -29,6 +29,8 @@ The iOS starter requires [Xcode](https://developer.apple.com/xcode/) and has sim
 ### Automated Feedback
 In order to connect your repository to [Travis](https://travis-ci.com), our automated code review and feedback system, make sure you completely copy _all_ files from the starter code of your choice. Once these files are committed and pushed, the system will provide feedback on code formatting and quality whenever you commit a new version to GitHub. _Points will be deducted if issues here linger in the final submission._
 
+**Note:** The education subscription for Travis is limited to a single review task at a time, so _don’t all commit at the last minute before the due date_ because the automated feedback will take much longer to get back to you!
+
 ## For Submission: A Front End to an Existing Web Service API
 The title pretty much says it: put together a front end for a pre-existing web service API. Details on selecting this API and the scope of usage for this API were specified in [Assignment 0919a](./front-end-design.md) and with [Assignment 0919b](./api-setup-tutorial.md) you got some hands-on time using it manually. The key requirement is worth reiterating: we are looking for the implementation of _at least three (3)_ non-trivial web service functions. Also as stated in that assignment, there is a “home-grown” option which, if chosen, hikes the requirement to five (5) specific services.
 
