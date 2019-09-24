@@ -39,6 +39,8 @@ Technology, coding, and architecture specifics will vary by technology stack, bu
 ### How to Turn it In
 The starter applications can be run/built from within their own subfolders, but for your own submission, _copy all of the files_ from the starter code of choice to the top level of this repository, then start working on those files as your own. This has the secondary effect of keeping the starter code untouched—you’ll probably benefit from that, in case you do something that breaks the application code.
 
+As you then implement your own design, _do_ add, move, rename, and reorganize files as needed. The only things to preserve from the starter code are the tool chain configuration and setup (i.e., linting, testing, Travis) and the overall structure (primarily the API abstraction layer). For everything else, make the code your own.
+
 To evaluate your work, we will invoke or build your application based on the files at the top of the repository.
 
 ## Specific Point Allocations
