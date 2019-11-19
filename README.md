@@ -8,5 +8,5 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 0919b](./api-setup-tutorial.md) API setup/tutorial document
 - [Assignment 1029](./front-end-development.md) Front-end development
 - [Assignment 1114](./api-integration.md) API integration
-- **Assignment 1205** Front-end evaluation and design vision document
-- **Assignment 1213** Reusable direct manipulation user interface component
+- [Assignment 1205](./front-end-evaluation-and-vision.md) Front-end evaluation and design vision document
+- [Assignment 1213](./reusable-component.md) Reusable direct manipulation user interface component
